@@ -1,0 +1,6 @@
+Assignment 4:BASIC COMMANDS
+  1) Commands are actually files containing programs, often written in C.
+     How will you find out in which directory does  the file corresponding to the man command resides?
+         Type man
+  2)To find the path,we use the command  
+         echo $PATH
