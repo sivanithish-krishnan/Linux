@@ -85,7 +85,7 @@ Assignment 10:Linux process
    How can you store the output in a file named process_info?
         ps -e
         ps -e|more
-        ps -e | more 1>>process_info
+        ps -e 1 >>process_info
 
        
 
